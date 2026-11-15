@@ -121,14 +121,15 @@ Progress is recorded on clause hits, boss defeats, clean clears, and streaks. Re
 ## 🎥 Project Preview
 
 <div align="center">
-  <video width="100%" controls poster="https://drive.google.com/thumbnail?id=1silALWbcTVn3PjAL7WyVFwCQViSby0CS&amp;sz=w1600" src="https://drive.google.com/uc?export=download&amp;id=1silALWbcTVn3PjAL7WyVFwCQViSby0CS">
-    <a href="https://drive.google.com/file/d/1silALWbcTVn3PjAL7WyVFwCQViSby0CS/view?usp=sharing">Watch the 16:9 cinematic promo on Google Drive</a>
-  </video>
+  <a href="https://drive.google.com/file/d/1silALWbcTVn3PjAL7WyVFwCQViSby0CS/view?usp=sharing" title="Watch the Lexi-Labyrinth 16:9 cinematic promo">
+    <img src="assets/promo-poster.svg" alt="Lexi-Labyrinth 16:9 cinematic promo — click to play" width="100%" />
+  </a>
   <p>
     <a href="https://drive.google.com/file/d/1silALWbcTVn3PjAL7WyVFwCQViSby0CS/view?usp=sharing">
       <strong>▶ Watch the official 16:9 cinematic promo on Google Drive</strong>
     </a>
   </p>
+  <sub>GitHub sanitises inline <code>&lt;video&gt;</code> tags, so the poster opens the full promo.</sub>
 </div>
 
 > If your browser blocks inline Drive playback, use the link below the player — the full promo is publicly available.
